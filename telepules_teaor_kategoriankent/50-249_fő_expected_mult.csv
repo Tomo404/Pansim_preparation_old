@@ -1,0 +1,388 @@
+﻿település,TEÁOR,darab,dolgozók
+Bugyi,1,6,622
+Hódmezővásárhely,1,5,518
+Szeged,1,5,518
+Budapest 03. kerület,10,7,725
+Budapest 13. kerület,10,7,725
+Debrecen,10,10,1036
+Eger,10,5,518
+Győr,10,5,518
+Böhönye,16,14,1451
+Csurgó,16,5,518
+Egerszalók,16,17,1762
+Kaposvár,16,24,2487
+Putnok,16,9,933
+Szerencs,16,16,1658
+Szikszó,16,15,1554
+Tiszakeszi,16,37,3834
+Öreglak,16,12,1244
+Tiszakeszi,17,12,1244
+Böhönye,18,8,829
+Egerszalók,18,9,933
+Tiszakeszi,18,45,4663
+Tiszakeszi,20,9,933
+Békéscsaba,22,6,622
+Gyomaendrőd,22,8,829
+Kiskőrös,22,16,1658
+Körösladány,22,11,1140
+Mogyorósbánya,22,30,3109
+Mórahalom,22,13,1347
+Nagybajom,22,5,518
+Pécs,22,8,829
+Rakamaz,22,15,1554
+Ajka,23,6,622
+Békéscsaba,23,6,622
+Békésszentandrás,23,6,622
+Gyomaendrőd,23,10,1036
+Karcag,23,9,933
+Kerta,23,10,1036
+Kisújszállás,23,6,622
+Medgyesegyháza,23,12,1244
+Mogyorósbánya,23,25,2591
+Mórahalom,23,20,2073
+Nagybajom,23,6,622
+Nyírmeggyes,23,22,2280
+Oroszlány,23,5,518
+Paks,23,14,1451
+Rakamaz,23,27,2798
+Szikszó,23,5,518
+Vaja,23,5,518
+Ajka,25,41,4249
+Balmazújváros,25,5,518
+Budapest 21. kerület,25,7,725
+Békés,25,7,725
+Békéscsaba,25,28,2902
+Békésszentandrás,25,11,1140
+Böhönye,25,5,518
+Foktő,25,7,725
+Gyomaendrőd,25,25,2591
+Hódmezővásárhely,25,18,1865
+Jászberény,25,17,1762
+Karcag,25,71,7358
+Kecskemét,25,12,1244
+Kerta,25,32,3316
+Kiskőrös,25,7,725
+Kisújszállás,25,40,4145
+Kunfehértó,25,34,3523
+Kunszentmiklós,25,6,622
+Körösladány,25,26,2694
+Ladánybene,25,16,1658
+Lőrinci,25,6,622
+Medgyesegyháza,25,57,5907
+Mezőtárkány,25,12,1244
+Mogyorósbánya,25,180,18653
+Mórahalom,25,120,12436
+Nyirád,25,6,622
+Nyírmeggyes,25,30,3109
+Oroszlány,25,44,4560
+Ostoros,25,5,518
+Paks,25,43,4456
+Petneháza,25,29,3005
+Pécs,25,10,1036
+Rakamaz,25,77,7980
+Sárszentmihály,25,36,3731
+Sátoraljaújhely,25,6,622
+Sükösd,25,8,829
+Tiszakeszi,25,6,622
+Tiszaújváros,25,13,1347
+Tolcsva,25,16,1658
+Vaja,25,8,829
+Budapest 10. kerület,26,6,622
+Békéscsaba,26,6,622
+Körösladány,26,6,622
+Mogyorósbánya,26,43,4456
+Mórahalom,26,21,2176
+Rakamaz,26,10,1036
+Karcag,27,9,933
+Kerta,27,6,622
+Kisújszállás,27,7,725
+Medgyesegyháza,27,5,518
+Mogyorósbánya,27,15,1554
+Mórahalom,27,9,933
+Paks,27,5,518
+Sárszentmihály,27,5,518
+Ajka,28,11,1140
+Békéscsaba,28,10,1036
+Karcag,28,14,1451
+Kisújszállás,28,9,933
+Kunfehértó,28,6,622
+Körösladány,28,12,1244
+Medgyesegyháza,28,15,1554
+Mogyorósbánya,28,42,4352
+Mórahalom,28,22,2280
+Nyírmeggyes,28,9,933
+Oroszlány,28,5,518
+Petneháza,28,11,1140
+Rakamaz,28,27,2798
+Szügy,28,7,725
+Mogyorósbánya,29,21,2176
+Szügy,29,5,518
+Sárszentmihály,29,5,518
+Sásd,29,7,725
+Mogyorósbánya,30,6,622
+Ajka,31,20,2073
+Balmazújváros,31,6,622
+Békés,31,6,622
+Békéscsaba,31,13,1347
+Forró,31,5,518
+Gyomaendrőd,31,22,2280
+Hódmezővásárhely,31,8,829
+Kaposvár,31,5,518
+Karcag,31,7,725
+Kerta,31,11,1140
+Kiskőrös,31,7,725
+Kunfehértó,31,7,725
+Medgyesegyháza,31,11,1140
+Mogyorósbánya,31,53,5492
+Mórahalom,31,56,5803
+Nyírmeggyes,31,27,2798
+Oroszlány,31,15,1554
+Petneháza,31,5,518
+Rakamaz,31,50,5182
+Szügy,31,9,933
+Sárszentmihály,31,8,829
+Sásd,31,17,1762
+Vaja,31,8,829
+Ajka,32,14,1451
+Balmazújváros,32,6,622
+Békés,32,16,1658
+Békéscsaba,32,45,4663
+Békésszentandrás,32,10,1036
+Gyomaendrőd,32,42,4352
+Hódmezővásárhely,32,12,1244
+Kaposvár,32,9,933
+Karcag,32,28,2902
+Kecskemét,32,5,518
+Kerta,32,16,1658
+Kisújszállás,32,14,1451
+Kunfehértó,32,10,1036
+Körösladány,32,5,518
+Ladánybene,32,18,1865
+Marcali,32,25,2591
+Medgyesegyháza,32,47,4871
+Mezőtárkány,32,8,829
+Mogyorósbánya,32,99,10259
+Mórahalom,32,160,16581
+Nyírmeggyes,32,33,3420
+Oroszlány,32,10,1036
+Petneháza,32,8,829
+Rakamaz,32,79,8187
+Szügy,32,39,4042
+Sásd,32,29,3005
+Vaja,32,13,1347
+Ajka,33,23,2383
+Békés,33,19,1969
+Békéscsaba,33,50,5182
+Békésszentandrás,33,17,1762
+Egerszalók,33,5,518
+Gyomaendrőd,33,18,1865
+Hódmezővásárhely,33,20,2073
+Jászberény,33,24,2487
+Kaposvár,33,7,725
+Karcag,33,22,2280
+Kecskemét,33,8,829
+Kerta,33,23,2383
+Kiskőrös,33,8,829
+Kisújszállás,33,12,1244
+Kunfehértó,33,14,1451
+Kunszentmiklós,33,5,518
+Körösladány,33,11,1140
+Ladánybene,33,7,725
+Marcali,33,26,2694
+Medgyesegyháza,33,46,4767
+Mezőtárkány,33,18,1865
+Mogyorósbánya,33,102,10570
+Mórahalom,33,123,12746
+Nagyatád,33,8,829
+Nyírmeggyes,33,24,2487
+Oroszlány,33,27,2798
+Petneháza,33,21,2176
+Rakamaz,33,109,11296
+Szügy,33,36,3731
+Sárszentmihály,33,5,518
+Sásd,33,18,1865
+Sükösd,33,9,933
+Tatabánya,33,8,829
+Vaja,33,14,1451
+Budapest 03. kerület,41,7,725
+Budapest 09. kerület,41,5,518
+Budapest 11. kerület,41,5,518
+Budapest 15. kerület,41,6,622
+Debrecen,41,5,518
+Nyíregyháza,41,5,518
+Budapest 11. kerület,42,8,829
+Budapest 03. kerület,43,10,1036
+Budapest 05. kerület,43,5,518
+Budapest 13. kerület,43,8,829
+Budapest 14. kerület,43,5,518
+Debrecen,43,6,622
+Budapest 03. kerület,45,5,518
+Budapest 09. kerület,45,8,829
+Budapest 11. kerület,45,5,518
+Budapest 13. kerület,45,9,933
+Kecskemét,45,5,518
+Biatorbágy,46,6,622
+Budapest 02. kerület,46,8,829
+Budapest 03. kerület,46,12,1244
+Budapest 04. kerület,46,5,518
+Budapest 08. kerület,46,12,1244
+Budapest 09. kerület,46,16,1658
+Budapest 10. kerület,46,12,1244
+Budapest 11. kerület,46,32,3316
+Budapest 12. kerület,46,8,829
+Budapest 13. kerület,46,29,3005
+Budapest 14. kerület,46,10,1036
+Budapest 15. kerület,46,7,725
+Budapest 17. kerület,46,5,518
+Budapest 22. kerület,46,5,518
+Budaörs,46,10,1036
+Békéscsaba,46,5,518
+Debrecen,46,13,1347
+Dunaharaszti,46,8,829
+Dunakeszi,46,5,518
+Kecskemét,46,7,725
+Nyíregyháza,46,5,518
+Pécs,46,7,725
+Szeged,46,8,829
+Szigetszentmiklós,46,7,725
+Törökbálint,46,8,829
+Vecsés,46,5,518
+Budapest 02. kerület,47,5,518
+Budapest 03. kerület,47,7,725
+Budapest 08. kerület,47,7,725
+Budapest 09. kerület,47,6,622
+Budapest 10. kerület,47,5,518
+Budapest 11. kerület,47,10,1036
+Budapest 13. kerület,47,13,1347
+Budapest 14. kerület,47,6,622
+Budaörs,47,5,518
+Debrecen,47,6,622
+Szeged,47,5,518
+Székesfehérvár,47,7,725
+Budapest 18. kerület,49,5,518
+Budapest 21. kerület,49,5,518
+Kecskemét,49,6,622
+Székesfehérvár,49,6,622
+Veszprém,49,6,622
+Újlengyel,49,8,829
+Budapest 09. kerület,52,5,518
+Budapest 13. kerület,52,7,725
+Budapest 21. kerület,52,8,829
+Vecsés,52,7,725
+Budapest 02. kerület,55,6,622
+Budapest 03. kerület,55,6,622
+Budapest 05. kerület,55,10,1036
+Budapest 06. kerület,55,5,518
+Hajdúszoboszló,55,5,518
+Budapest 05. kerület,56,12,1244
+Budapest 06. kerület,56,6,622
+Budapest 11. kerület,56,8,829
+Budapest 12. kerület,56,6,622
+Budapest 13. kerület,56,5,518
+Budapest 14. kerület,56,5,518
+Debrecen,56,8,829
+Szeged,56,8,829
+Budapest 11. kerület,58,5,518
+Budapest 02. kerület,62,11,1140
+Budapest 03. kerület,62,9,933
+Budapest 05. kerület,62,6,622
+Budapest 06. kerület,62,5,518
+Budapest 07. kerület,62,8,829
+Budapest 08. kerület,62,7,725
+Budapest 09. kerület,62,12,1244
+Budapest 11. kerület,62,42,4352
+Budapest 12. kerület,62,6,622
+Budapest 13. kerület,62,17,1762
+Budapest 14. kerület,62,9,933
+Budapest 06. kerület,64,6,622
+Budapest 13. kerület,64,6,622
+Budapest 13. kerület,65,5,518
+Budapest 05. kerület,66,5,518
+Budapest 13. kerület,66,8,829
+Budapest 05. kerület,68,5,518
+Budapest 11. kerület,69,5,518
+Budapest 13. kerület,69,15,1554
+Budapest 02. kerület,70,7,725
+Budapest 03. kerület,70,7,725
+Budapest 05. kerület,70,9,933
+Budapest 08. kerület,70,6,622
+Budapest 09. kerület,70,5,518
+Budapest 11. kerület,70,13,1347
+Budapest 12. kerület,70,5,518
+Budapest 13. kerület,70,10,1036
+Budapest 03. kerület,71,9,933
+Budapest 09. kerület,71,6,622
+Budapest 11. kerület,71,15,1554
+Budapest 13. kerület,71,9,933
+Budapest 03. kerület,72,5,518
+Budapest 02. kerület,73,6,622
+Budapest 05. kerület,73,5,518
+Budapest 11. kerület,78,6,622
+Budapest 13. kerület,78,9,933
+Csomád,78,14,1451
+Újlengyel,78,26,2694
+Budapest 03. kerület,80,13,1347
+Budapest 09. kerület,80,5,518
+Budapest 11. kerület,80,11,1140
+Budapest 13. kerület,80,6,622
+Budapest 14. kerület,80,8,829
+Budapest 22. kerület,80,7,725
+Csomád,80,10,1036
+Újlengyel,80,7,725
+Budapest 08. kerület,81,5,518
+Budapest 10. kerület,81,6,622
+Budapest 11. kerület,81,6,622
+Budapest 13. kerület,81,17,1762
+Budapest 14. kerület,81,6,622
+Budapest 22. kerület,81,6,622
+Debrecen,81,8,829
+Budapest 09. kerület,82,6,622
+Budapest 11. kerület,82,5,518
+Budapest 13. kerület,82,6,622
+Budapest 01. kerület,84,7,725
+Budapest 03. kerület,84,5,518
+Budapest 05. kerület,84,10,1036
+Budapest 08. kerület,84,5,518
+Budapest 01. kerület,85,5,518
+Budapest 02. kerület,85,5,518
+Budapest 03. kerület,85,21,2176
+Budapest 04. kerület,85,7,725
+Budapest 05. kerület,85,6,622
+Budapest 07. kerület,85,6,622
+Budapest 08. kerület,85,5,518
+Budapest 11. kerület,85,17,1762
+Budapest 12. kerület,85,7,725
+Budapest 13. kerület,85,5,518
+Budapest 15. kerület,85,5,518
+Budapest 16. kerület,85,5,518
+Budapest 20. kerület,85,6,622
+Békéscsaba,85,6,622
+Cegléd,85,6,622
+Debrecen,85,14,1451
+Dunaújváros,85,5,518
+Eger,85,8,829
+Esztergom,85,6,622
+Gyula,85,5,518
+Kaposvár,85,7,725
+Kecskemét,85,8,829
+Kiskunhalas,85,5,518
+Miskolc,85,22,2280
+Nyíregyháza,85,13,1347
+Orosháza,85,5,518
+Pécs,85,13,1347
+Szeged,85,5,518
+Székesfehérvár,85,7,725
+Veszprém,85,7,725
+Vác,85,6,622
+Budapest 13. kerület,86,5,518
+Budapest 02. kerület,87,5,518
+Debrecen,87,7,725
+Nyíregyháza,87,5,518
+Budapest 08. kerület,88,6,622
+Budapest 09. kerület,88,5,518
+Nyíregyháza,88,5,518
+Pécs,88,5,518
+Budapest 06. kerület,90,5,518
+Budapest 09. kerület,90,6,622
+Budapest 14. kerület,94,5,518
+Debrecen,94,6,622
